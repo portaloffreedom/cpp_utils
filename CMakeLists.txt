@@ -8,6 +8,7 @@ add_library(cpp_utils STATIC
         Address.cpp Address.h
 )
 
-set_property(TARGET cpp_utils
-        PROPERTY POSITION_INDEPENDENT_CODE ON
-)
+# If to include into a dynamic library, uncomment this
+#set_property(TARGET cpp_utils
+#        PROPERTY POSITION_INDEPENDENT_CODE ON
+#)

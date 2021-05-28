@@ -1,5 +1,4 @@
 /*
- * This file is part of the revolve project.
  * Copyright (c) 2021 Matteo De Carlo.
  *
  * This program is free software: you can redistribute it and/or modify
