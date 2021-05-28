@@ -1,2 +1,2 @@
 # cpp_utils
-My Open Utilities for C++
+My Free and Open Utilities for C++
